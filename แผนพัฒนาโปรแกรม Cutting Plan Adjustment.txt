@@ -1,7 +1,7 @@
 กำหนดเงื่อนไข
-DONE - ขยาย-หด รูเจาะได้ (อยู่ใน section BO>EN)
-- rename files in output
-- แยกตาม thinkness ได้ (เพื่อกำหนดการ adjust รูตามแต่ละความหนา)
+- ขยาย-หด รูเจาะได้ (อยู่ใน section BO>EN) >> Done
+- rename files in output >> Done
+- แยกตาม thinkness ได้ (เพื่อกำหนดการ adjust รูตามแต่ละความหนา) >> Done
 - แยกโฟลเดอร์ระหว่าง part ที่มีรูเจาะ-ไม่มีรูเจาะ (เป็น option ให้ติ๊ก)
 - ลบรูเจาะได้ (กรณีไม่ได้เจาะรูที่ CNC cutting)
 - summary จำนวน nc ที่มีรู bolt (จำนวน part, จำนวนรู)
